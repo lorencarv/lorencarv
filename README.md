@@ -1,4 +1,4 @@
-# Olá, eu sou a Loren! 👋
+# Olá, eu sou a Lorena! 👋
 
 Sou estudante de ADS (2º período), em constante aprendizado. Atualmente, meu foco está no desenvolvimento **Front-end** e em lógica de programação com **Python**.
 
